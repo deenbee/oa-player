@@ -36,7 +36,7 @@ Premium Glassmorphic Music Player – Transform your PC into a premium analog au
 - 🔹 **Pitch Convert**
    From 440hz Standard pitch convert to 432hz (Cosmic Vibe/Old-school music experience).
 - 🔹 **All-in-One Audio Hub**  
-  Play local files, stream web radio stations, and discover new artists via Jamendo Music integration.
+  Play local files, stream web radio stations, and discover new artists via Audius/Jamendo Music integration.
 
 ![](https://raw.githubusercontent.com/deenbee/oa-player/main/screenshots/sc4.png)
 
