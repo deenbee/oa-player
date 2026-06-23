@@ -35,7 +35,7 @@ Premium Glassmorphic Music Player – Transform your PC into a premium analog au
    Enjoy the Analog professional experience, classic 30/15ips Reel-to-Reel simulation.
 - 🔹 **Pitch Convert**  
    From 440hz Standard pitch convert to 432hz (Cosmic Vibe/Old-school music experience).
-- 🔹 **OA Nature**:
+- 🔹 **OA Nature**:  
   Combine your favorite music with nature sounds to rest, meditate or sleep.
 
 - 🔹 **All-in-One Audio Hub**  
