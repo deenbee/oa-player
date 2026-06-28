@@ -38,8 +38,9 @@ Premium Glassmorphic Music Player – Transform your PC into a premium analog au
 - 🔹 **OA Nature**:  
   Combine your favorite music with nature sounds to rest, meditate or sleep.  
 - **Clock**:
-  Features automatic voice announcements for the current time, programmable at 15, 30, or 60 minute intervals.  
-	Multi-language support included (English, Spanish, Portuguese, and Russian).  
+  Features automatic voice announcements for the current time,  
+  programmable at 15, 30, or 60 minute intervals.  
+  Multi-language support included (English, Spanish, Portuguese, and Russian).  
 
 - 🔹 **All-in-One Audio Hub**  
   Play local files, stream web radio stations, and discover new artists via Audius/Jamendo Music integration.
