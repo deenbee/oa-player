@@ -37,7 +37,7 @@ Premium Glassmorphic Music Player – Transform your PC into a premium analog au
    From 440hz Standard pitch convert to 432hz (Cosmic Vibe/Old-school music experience).
 - 🔹 **OA Nature**:  
   Combine your favorite music with nature sounds to rest, meditate or sleep.  
-- **Clock**:
+- **Clock**:  
   Features automatic voice announcements for the current time,  
   programmable at 15, 30, or 60 minute intervals.  
   Multi-language support included (English, Spanish, Portuguese, and Russian).  
